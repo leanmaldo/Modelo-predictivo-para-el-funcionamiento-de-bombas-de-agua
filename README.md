@@ -1,5 +1,5 @@
 # NTT_DATA_Retos
-Retos de la Escuela de Talento Digital de NTT DATA Foundation para obtener la certificación "Python Data Analyst"
+Proyecto realizado en el marco de la Escuela de Talento Digital de NTT DATA Foundation para obtener la certificación "Python Data Analyst"
 # EXTRACCION DE AGUA EN TANZANIA
 # PLANTEAMIENTO DEL PROBLEMA 
 Tanzania se enfrenta a inmensos problemas relacionados con sus sistemas de agua y saneamiento. Casi el 43% de la población carece de acceso al agua potable básica, y sólo un 25% utiliza un saneamiento gestionado de forma segura. Más del 70% de las catástrofes naturales del país están relacionadas con el cambio climático y vinculadas a las sequías recurrentes, así como a las inundaciones, que han provocado el colapso de las infraestructuras de suministro de agua y saneamiento. A esto se le suma, que el país gasta el 70% del presupuesto sanitario en enfermedades prevenibles, relacionadas con el agua, el saneamiento y la higiene. 
