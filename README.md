@@ -1,4 +1,4 @@
-# NTT_DATA_Retos
+# Modelo-predictivo-para-el-funcionamiento-de-bombas-de-agua
 Proyecto realizado en el marco de la Escuela de Talento Digital de NTT DATA Foundation para obtener la certificación "Python Data Analyst"
 # EXTRACCION DE AGUA EN TANZANIA
 # PLANTEAMIENTO DEL PROBLEMA 
